@@ -1,0 +1,5 @@
+Q. Can Samus use his iron grip ability in conjunction with other abilites that stop falling back on a certain roll?
+A. No.
+
+Q. In regards to Zarakynel's Dance of Serpents ability, do abilities that take effect on a hit roll of 6 activate before or after re-rolls?
+A. After.
