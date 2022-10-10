@@ -3,3 +3,7 @@ A. No.
 
 Q. In regards to Zarakynel's Dance of Serpents ability, do abilities that take effect on a hit roll of 6 activate before or after re-rolls?
 A. After.
+
+CRUSHING BULK:
+Change the first sentence of this Stratagem to read:
+'Use this Stratagem after a PLAGUE DRONES, BEASTS OF NURGLE, PLAGUE TOADS, POX RIDERS or GREAT UNCLEAN ONE unit from your army finishes a charge move.'
