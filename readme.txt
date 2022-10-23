@@ -5,6 +5,7 @@ An'ggrath the Unbound
 Cor'bax Utterblight
 Giant Chaos Spawn
 Furies
+Ka'bandha
 Mamon Transfigured
 Plague Hulk of Nurgle
 Plague Toads
