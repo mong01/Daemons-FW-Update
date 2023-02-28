@@ -23,3 +23,4 @@ Or you can send me a message to a discord account I also made at mong#2655. Just
 Check out my other homebrew catalogues:
 https://github.com/mong01/Adeptus-Mechanicus-FW-Battlescribe
 https://github.com/mong01/Death-Korps-of-Krieg-HB
+https://github.com/mong01/World-Eaters-Expansion
